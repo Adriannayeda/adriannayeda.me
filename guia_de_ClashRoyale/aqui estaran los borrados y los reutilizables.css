@@ -1,0 +1,31 @@
+<!---aqui van los reutilizables--->
+
+
+<!--  
+          
+
+
+        #menuprincipal {
+            display: flex;
+            justify-content: center;
+            width: 1209;
+            height: 50px; 
+            padding: 0% 2%;
+            background-color: #3498db;
+            border-top: 1px solid #260749;
+            border-bottom: 1px solid #ad6507;
+            }
+            
+            #menuprincipal > div { flex: 1;
+            max-width: 960px; }
+            
+            #menuprincipal 
+             { 
+                 background-color: 63498db;
+            }
+            
+            #menuprincipal a {
+            font: bold 18px Arial, sans-serif;
+            color: #333333;
+            text-decoration: none;
+            } --->
